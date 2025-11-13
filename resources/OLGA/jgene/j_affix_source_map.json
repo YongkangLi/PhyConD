@@ -1,0 +1,1102 @@
+{
+  "ATTACTACTACTACTACGGTATGGACGTCTGGGGCCAAGGGACCACGGTCACCGTCTCCTCAG": [
+    [
+      6,
+      0
+    ]
+  ],
+  "TTACTACTACTACTACGGTATGGACGTCTGGGGCCAAGGGACCACGGTCACCGTCTCCTCAG": [
+    [
+      6,
+      1
+    ]
+  ],
+  "TACTACTACTACTACGGTATGGACGTCTGGGGCCAAGGGACCACGGTCACCGTCTCCTCAG": [
+    [
+      6,
+      2
+    ]
+  ],
+  "ACTACTACTACTACGGTATGGACGTCTGGGGCCAAGGGACCACGGTCACCGTCTCCTCAG": [
+    [
+      6,
+      3
+    ]
+  ],
+  "CTACTACTACTACGGTATGGACGTCTGGGGCCAAGGGACCACGGTCACCGTCTCCTCAG": [
+    [
+      6,
+      4
+    ]
+  ],
+  "TACTACTACTACGGTATGGACGTCTGGGGCCAAGGGACCACGGTCACCGTCTCCTCAG": [
+    [
+      6,
+      5
+    ]
+  ],
+  "ACTACTACTACGGTATGGACGTCTGGGGCCAAGGGACCACGGTCACCGTCTCCTCAG": [
+    [
+      6,
+      6
+    ]
+  ],
+  "CTACTACTACGGTATGGACGTCTGGGGCCAAGGGACCACGGTCACCGTCTCCTCAG": [
+    [
+      6,
+      7
+    ]
+  ],
+  "TACTACTACGGTATGGACGTCTGGGGCCAAGGGACCACGGTCACCGTCTCCTCAG": [
+    [
+      6,
+      8
+    ]
+  ],
+  "ACTACTACGGTATGGACGTCTGGGGCCAAGGGACCACGGTCACCGTCTCCTCAG": [
+    [
+      6,
+      9
+    ]
+  ],
+  "CTACTACGGTATGGACGTCTGGGGCCAAGGGACCACGGTCACCGTCTCCTCAG": [
+    [
+      6,
+      10
+    ]
+  ],
+  "TACTACGGTATGGACGTCTGGGGCCAAGGGACCACGGTCACCGTCTCCTCAG": [
+    [
+      6,
+      11
+    ]
+  ],
+  "ACTACGGTATGGACGTCTGGGGCCAAGGGACCACGGTCACCGTCTCCTCAG": [
+    [
+      6,
+      12
+    ]
+  ],
+  "CTACGGTATGGACGTCTGGGGCCAAGGGACCACGGTCACCGTCTCCTCAG": [
+    [
+      6,
+      13
+    ]
+  ],
+  "TACGGTATGGACGTCTGGGGCCAAGGGACCACGGTCACCGTCTCCTCAG": [
+    [
+      6,
+      14
+    ]
+  ],
+  "ACGGTATGGACGTCTGGGGCCAAGGGACCACGGTCACCGTCTCCTCAG": [
+    [
+      6,
+      15
+    ]
+  ],
+  "CGGTATGGACGTCTGGGGCCAAGGGACCACGGTCACCGTCTCCTCAG": [
+    [
+      6,
+      16
+    ]
+  ],
+  "GGTATGGACGTCTGGGGCCAAGGGACCACGGTCACCGTCTCCTCAG": [
+    [
+      6,
+      17
+    ]
+  ],
+  "GTATGGACGTCTGGGGCCAAGGGACCACGGTCACCGTCTCCTCAG": [
+    [
+      6,
+      18
+    ]
+  ],
+  "TATGGACGTCTGGGGCCAAGGGACCACGGTCACCGTCTCCTCAG": [
+    [
+      6,
+      19
+    ]
+  ],
+  "ATGGACGTCTGGGGCCAAGGGACCACGGTCACCGTCTCCTCAG": [
+    [
+      6,
+      20
+    ]
+  ],
+  "TGGACGTCTGGGGCCAAGGGACCACGGTCACCGTCTCCTCAG": [
+    [
+      6,
+      21
+    ]
+  ],
+  "GGACGTCTGGGGCCAAGGGACCACGGTCACCGTCTCCTCAG": [
+    [
+      6,
+      22
+    ]
+  ],
+  "GACGTCTGGGGCCAAGGGACCACGGTCACCGTCTCCTCAG": [
+    [
+      6,
+      23
+    ]
+  ],
+  "ACGTCTGGGGCCAAGGGACCACGGTCACCGTCTCCTCAG": [
+    [
+      6,
+      24
+    ]
+  ],
+  "CGTCTGGGGCCAAGGGACCACGGTCACCGTCTCCTCAG": [
+    [
+      6,
+      25
+    ]
+  ],
+  "GTCTGGGGCCAAGGGACCACGGTCACCGTCTCCTCAG": [
+    [
+      6,
+      26
+    ]
+  ],
+  "ATTACTACTACTACTACTACATGGACGTCTGGGGCAAAGGGACCACGGTCACCGTCTCCTCAG": [
+    [
+      5,
+      0
+    ]
+  ],
+  "TTACTACTACTACTACTACATGGACGTCTGGGGCAAAGGGACCACGGTCACCGTCTCCTCAG": [
+    [
+      5,
+      1
+    ]
+  ],
+  "TACTACTACTACTACTACATGGACGTCTGGGGCAAAGGGACCACGGTCACCGTCTCCTCAG": [
+    [
+      5,
+      2
+    ]
+  ],
+  "ACTACTACTACTACTACATGGACGTCTGGGGCAAAGGGACCACGGTCACCGTCTCCTCAG": [
+    [
+      5,
+      3
+    ]
+  ],
+  "CTACTACTACTACTACATGGACGTCTGGGGCAAAGGGACCACGGTCACCGTCTCCTCAG": [
+    [
+      5,
+      4
+    ]
+  ],
+  "TACTACTACTACTACATGGACGTCTGGGGCAAAGGGACCACGGTCACCGTCTCCTCAG": [
+    [
+      5,
+      5
+    ]
+  ],
+  "ACTACTACTACTACATGGACGTCTGGGGCAAAGGGACCACGGTCACCGTCTCCTCAG": [
+    [
+      5,
+      6
+    ]
+  ],
+  "CTACTACTACTACATGGACGTCTGGGGCAAAGGGACCACGGTCACCGTCTCCTCAG": [
+    [
+      5,
+      7
+    ]
+  ],
+  "TACTACTACTACATGGACGTCTGGGGCAAAGGGACCACGGTCACCGTCTCCTCAG": [
+    [
+      5,
+      8
+    ]
+  ],
+  "ACTACTACTACATGGACGTCTGGGGCAAAGGGACCACGGTCACCGTCTCCTCAG": [
+    [
+      5,
+      9
+    ]
+  ],
+  "CTACTACTACATGGACGTCTGGGGCAAAGGGACCACGGTCACCGTCTCCTCAG": [
+    [
+      5,
+      10
+    ]
+  ],
+  "TACTACTACATGGACGTCTGGGGCAAAGGGACCACGGTCACCGTCTCCTCAG": [
+    [
+      5,
+      11
+    ]
+  ],
+  "ACTACTACATGGACGTCTGGGGCAAAGGGACCACGGTCACCGTCTCCTCAG": [
+    [
+      5,
+      12
+    ]
+  ],
+  "CTACTACATGGACGTCTGGGGCAAAGGGACCACGGTCACCGTCTCCTCAG": [
+    [
+      5,
+      13
+    ]
+  ],
+  "TACTACATGGACGTCTGGGGCAAAGGGACCACGGTCACCGTCTCCTCAG": [
+    [
+      5,
+      14
+    ]
+  ],
+  "ACTACATGGACGTCTGGGGCAAAGGGACCACGGTCACCGTCTCCTCAG": [
+    [
+      5,
+      15
+    ]
+  ],
+  "CTACATGGACGTCTGGGGCAAAGGGACCACGGTCACCGTCTCCTCAG": [
+    [
+      5,
+      16
+    ]
+  ],
+  "TACATGGACGTCTGGGGCAAAGGGACCACGGTCACCGTCTCCTCAG": [
+    [
+      5,
+      17
+    ]
+  ],
+  "ACATGGACGTCTGGGGCAAAGGGACCACGGTCACCGTCTCCTCAG": [
+    [
+      5,
+      18
+    ]
+  ],
+  "CATGGACGTCTGGGGCAAAGGGACCACGGTCACCGTCTCCTCAG": [
+    [
+      5,
+      19
+    ]
+  ],
+  "ATGGACGTCTGGGGCAAAGGGACCACGGTCACCGTCTCCTCAG": [
+    [
+      5,
+      20
+    ]
+  ],
+  "TGGACGTCTGGGGCAAAGGGACCACGGTCACCGTCTCCTCAG": [
+    [
+      5,
+      21
+    ]
+  ],
+  "GGACGTCTGGGGCAAAGGGACCACGGTCACCGTCTCCTCAG": [
+    [
+      5,
+      22
+    ]
+  ],
+  "GACGTCTGGGGCAAAGGGACCACGGTCACCGTCTCCTCAG": [
+    [
+      5,
+      23
+    ]
+  ],
+  "ACGTCTGGGGCAAAGGGACCACGGTCACCGTCTCCTCAG": [
+    [
+      5,
+      24
+    ]
+  ],
+  "CGTCTGGGGCAAAGGGACCACGGTCACCGTCTCCTCAG": [
+    [
+      5,
+      25
+    ]
+  ],
+  "GTCTGGGGCAAAGGGACCACGGTCACCGTCTCCTCAG": [
+    [
+      5,
+      26
+    ]
+  ],
+  "ACAACTGGTTCGACCCCTGGGGCCAGGGAACCCTGGTCACCGTCTCCTCAG": [
+    [
+      4,
+      0
+    ]
+  ],
+  "CAACTGGTTCGACCCCTGGGGCCAGGGAACCCTGGTCACCGTCTCCTCAG": [
+    [
+      4,
+      1
+    ]
+  ],
+  "AACTGGTTCGACCCCTGGGGCCAGGGAACCCTGGTCACCGTCTCCTCAG": [
+    [
+      4,
+      2
+    ]
+  ],
+  "ACTGGTTCGACCCCTGGGGCCAGGGAACCCTGGTCACCGTCTCCTCAG": [
+    [
+      4,
+      3
+    ]
+  ],
+  "CTGGTTCGACCCCTGGGGCCAGGGAACCCTGGTCACCGTCTCCTCAG": [
+    [
+      4,
+      4
+    ]
+  ],
+  "TGGTTCGACCCCTGGGGCCAGGGAACCCTGGTCACCGTCTCCTCAG": [
+    [
+      4,
+      5
+    ]
+  ],
+  "GGTTCGACCCCTGGGGCCAGGGAACCCTGGTCACCGTCTCCTCAG": [
+    [
+      4,
+      6
+    ]
+  ],
+  "GTTCGACCCCTGGGGCCAGGGAACCCTGGTCACCGTCTCCTCAG": [
+    [
+      4,
+      7
+    ]
+  ],
+  "TTCGACCCCTGGGGCCAGGGAACCCTGGTCACCGTCTCCTCAG": [
+    [
+      4,
+      8
+    ]
+  ],
+  "TCGACCCCTGGGGCCAGGGAACCCTGGTCACCGTCTCCTCAG": [
+    [
+      4,
+      9
+    ]
+  ],
+  "CGACCCCTGGGGCCAGGGAACCCTGGTCACCGTCTCCTCAG": [
+    [
+      4,
+      10
+    ]
+  ],
+  "GACCCCTGGGGCCAGGGAACCCTGGTCACCGTCTCCTCAG": [
+    [
+      4,
+      11
+    ]
+  ],
+  "ACCCCTGGGGCCAGGGAACCCTGGTCACCGTCTCCTCAG": [
+    [
+      4,
+      12
+    ]
+  ],
+  "CCCCTGGGGCCAGGGAACCCTGGTCACCGTCTCCTCAG": [
+    [
+      4,
+      13
+    ]
+  ],
+  "CCCTGGGGCCAGGGAACCCTGGTCACCGTCTCCTCAG": [
+    [
+      4,
+      14
+    ]
+  ],
+  "CCTGGGGCCAGGGAACCCTGGTCACCGTCTCCTCAG": [
+    [
+      4,
+      15
+    ]
+  ],
+  "CTGGGGCCAGGGAACCCTGGTCACCGTCTCCTCAG": [
+    [
+      4,
+      16
+    ],
+    [
+      3,
+      13
+    ]
+  ],
+  "TGGGGCCAGGGAACCCTGGTCACCGTCTCCTCAG": [
+    [
+      4,
+      17
+    ],
+    [
+      3,
+      14
+    ]
+  ],
+  "GGGGCCAGGGAACCCTGGTCACCGTCTCCTCAG": [
+    [
+      4,
+      18
+    ],
+    [
+      3,
+      15
+    ]
+  ],
+  "GGGCCAGGGAACCCTGGTCACCGTCTCCTCAG": [
+    [
+      4,
+      19
+    ],
+    [
+      3,
+      16
+    ]
+  ],
+  "GGCCAGGGAACCCTGGTCACCGTCTCCTCAG": [
+    [
+      4,
+      20
+    ],
+    [
+      3,
+      17
+    ]
+  ],
+  "GCCAGGGAACCCTGGTCACCGTCTCCTCAG": [
+    [
+      4,
+      21
+    ],
+    [
+      3,
+      18
+    ]
+  ],
+  "CCAGGGAACCCTGGTCACCGTCTCCTCAG": [
+    [
+      4,
+      22
+    ],
+    [
+      3,
+      19
+    ]
+  ],
+  "CAGGGAACCCTGGTCACCGTCTCCTCAG": [
+    [
+      4,
+      23
+    ],
+    [
+      3,
+      20
+    ]
+  ],
+  "AGGGAACCCTGGTCACCGTCTCCTCAG": [
+    [
+      4,
+      24
+    ],
+    [
+      3,
+      21
+    ]
+  ],
+  "GGGAACCCTGGTCACCGTCTCCTCAG": [
+    [
+      4,
+      25
+    ],
+    [
+      3,
+      22
+    ]
+  ],
+  "GGAACCCTGGTCACCGTCTCCTCAG": [
+    [
+      4,
+      26
+    ],
+    [
+      3,
+      23
+    ]
+  ],
+  "ACTACTTTGACTACTGGGGCCAGGGAACCCTGGTCACCGTCTCCTCAG": [
+    [
+      3,
+      0
+    ]
+  ],
+  "CTACTTTGACTACTGGGGCCAGGGAACCCTGGTCACCGTCTCCTCAG": [
+    [
+      3,
+      1
+    ]
+  ],
+  "TACTTTGACTACTGGGGCCAGGGAACCCTGGTCACCGTCTCCTCAG": [
+    [
+      3,
+      2
+    ]
+  ],
+  "ACTTTGACTACTGGGGCCAGGGAACCCTGGTCACCGTCTCCTCAG": [
+    [
+      3,
+      3
+    ]
+  ],
+  "CTTTGACTACTGGGGCCAGGGAACCCTGGTCACCGTCTCCTCAG": [
+    [
+      3,
+      4
+    ]
+  ],
+  "TTTGACTACTGGGGCCAGGGAACCCTGGTCACCGTCTCCTCAG": [
+    [
+      3,
+      5
+    ]
+  ],
+  "TTGACTACTGGGGCCAGGGAACCCTGGTCACCGTCTCCTCAG": [
+    [
+      3,
+      6
+    ]
+  ],
+  "TGACTACTGGGGCCAGGGAACCCTGGTCACCGTCTCCTCAG": [
+    [
+      3,
+      7
+    ]
+  ],
+  "GACTACTGGGGCCAGGGAACCCTGGTCACCGTCTCCTCAG": [
+    [
+      3,
+      8
+    ]
+  ],
+  "ACTACTGGGGCCAGGGAACCCTGGTCACCGTCTCCTCAG": [
+    [
+      3,
+      9
+    ]
+  ],
+  "CTACTGGGGCCAGGGAACCCTGGTCACCGTCTCCTCAG": [
+    [
+      3,
+      10
+    ]
+  ],
+  "TACTGGGGCCAGGGAACCCTGGTCACCGTCTCCTCAG": [
+    [
+      3,
+      11
+    ]
+  ],
+  "ACTGGGGCCAGGGAACCCTGGTCACCGTCTCCTCAG": [
+    [
+      3,
+      12
+    ]
+  ],
+  "GAACCCTGGTCACCGTCTCCTCAG": [
+    [
+      3,
+      24
+    ]
+  ],
+  "AACCCTGGTCACCGTCTCCTCAG": [
+    [
+      3,
+      25
+    ]
+  ],
+  "ACCCTGGTCACCGTCTCCTCAG": [
+    [
+      3,
+      26
+    ]
+  ],
+  "TGATGCTTTTGATATCTGGGGCCAAGGGACAATGGTCACCGTCTCTTCAG": [
+    [
+      2,
+      0
+    ]
+  ],
+  "GATGCTTTTGATATCTGGGGCCAAGGGACAATGGTCACCGTCTCTTCAG": [
+    [
+      2,
+      1
+    ]
+  ],
+  "ATGCTTTTGATATCTGGGGCCAAGGGACAATGGTCACCGTCTCTTCAG": [
+    [
+      2,
+      2
+    ]
+  ],
+  "TGCTTTTGATATCTGGGGCCAAGGGACAATGGTCACCGTCTCTTCAG": [
+    [
+      2,
+      3
+    ]
+  ],
+  "GCTTTTGATATCTGGGGCCAAGGGACAATGGTCACCGTCTCTTCAG": [
+    [
+      2,
+      4
+    ]
+  ],
+  "CTTTTGATATCTGGGGCCAAGGGACAATGGTCACCGTCTCTTCAG": [
+    [
+      2,
+      5
+    ]
+  ],
+  "TTTTGATATCTGGGGCCAAGGGACAATGGTCACCGTCTCTTCAG": [
+    [
+      2,
+      6
+    ]
+  ],
+  "TTTGATATCTGGGGCCAAGGGACAATGGTCACCGTCTCTTCAG": [
+    [
+      2,
+      7
+    ]
+  ],
+  "TTGATATCTGGGGCCAAGGGACAATGGTCACCGTCTCTTCAG": [
+    [
+      2,
+      8
+    ]
+  ],
+  "TGATATCTGGGGCCAAGGGACAATGGTCACCGTCTCTTCAG": [
+    [
+      2,
+      9
+    ]
+  ],
+  "GATATCTGGGGCCAAGGGACAATGGTCACCGTCTCTTCAG": [
+    [
+      2,
+      10
+    ]
+  ],
+  "ATATCTGGGGCCAAGGGACAATGGTCACCGTCTCTTCAG": [
+    [
+      2,
+      11
+    ]
+  ],
+  "TATCTGGGGCCAAGGGACAATGGTCACCGTCTCTTCAG": [
+    [
+      2,
+      12
+    ]
+  ],
+  "ATCTGGGGCCAAGGGACAATGGTCACCGTCTCTTCAG": [
+    [
+      2,
+      13
+    ]
+  ],
+  "TCTGGGGCCAAGGGACAATGGTCACCGTCTCTTCAG": [
+    [
+      2,
+      14
+    ]
+  ],
+  "CTGGGGCCAAGGGACAATGGTCACCGTCTCTTCAG": [
+    [
+      2,
+      15
+    ]
+  ],
+  "TGGGGCCAAGGGACAATGGTCACCGTCTCTTCAG": [
+    [
+      2,
+      16
+    ]
+  ],
+  "GGGGCCAAGGGACAATGGTCACCGTCTCTTCAG": [
+    [
+      2,
+      17
+    ]
+  ],
+  "GGGCCAAGGGACAATGGTCACCGTCTCTTCAG": [
+    [
+      2,
+      18
+    ]
+  ],
+  "GGCCAAGGGACAATGGTCACCGTCTCTTCAG": [
+    [
+      2,
+      19
+    ]
+  ],
+  "GCCAAGGGACAATGGTCACCGTCTCTTCAG": [
+    [
+      2,
+      20
+    ]
+  ],
+  "CCAAGGGACAATGGTCACCGTCTCTTCAG": [
+    [
+      2,
+      21
+    ]
+  ],
+  "CAAGGGACAATGGTCACCGTCTCTTCAG": [
+    [
+      2,
+      22
+    ]
+  ],
+  "AAGGGACAATGGTCACCGTCTCTTCAG": [
+    [
+      2,
+      23
+    ]
+  ],
+  "AGGGACAATGGTCACCGTCTCTTCAG": [
+    [
+      2,
+      24
+    ]
+  ],
+  "GGGACAATGGTCACCGTCTCTTCAG": [
+    [
+      2,
+      25
+    ]
+  ],
+  "GGACAATGGTCACCGTCTCTTCAG": [
+    [
+      2,
+      26
+    ]
+  ],
+  "CTACTGGTACTTCGATCTCTGGGGCCGTGGCACCCTGGTCACTGTCTCCTCAG": [
+    [
+      1,
+      0
+    ]
+  ],
+  "TACTGGTACTTCGATCTCTGGGGCCGTGGCACCCTGGTCACTGTCTCCTCAG": [
+    [
+      1,
+      1
+    ]
+  ],
+  "ACTGGTACTTCGATCTCTGGGGCCGTGGCACCCTGGTCACTGTCTCCTCAG": [
+    [
+      1,
+      2
+    ]
+  ],
+  "CTGGTACTTCGATCTCTGGGGCCGTGGCACCCTGGTCACTGTCTCCTCAG": [
+    [
+      1,
+      3
+    ]
+  ],
+  "TGGTACTTCGATCTCTGGGGCCGTGGCACCCTGGTCACTGTCTCCTCAG": [
+    [
+      1,
+      4
+    ]
+  ],
+  "GGTACTTCGATCTCTGGGGCCGTGGCACCCTGGTCACTGTCTCCTCAG": [
+    [
+      1,
+      5
+    ]
+  ],
+  "GTACTTCGATCTCTGGGGCCGTGGCACCCTGGTCACTGTCTCCTCAG": [
+    [
+      1,
+      6
+    ]
+  ],
+  "TACTTCGATCTCTGGGGCCGTGGCACCCTGGTCACTGTCTCCTCAG": [
+    [
+      1,
+      7
+    ]
+  ],
+  "ACTTCGATCTCTGGGGCCGTGGCACCCTGGTCACTGTCTCCTCAG": [
+    [
+      1,
+      8
+    ]
+  ],
+  "CTTCGATCTCTGGGGCCGTGGCACCCTGGTCACTGTCTCCTCAG": [
+    [
+      1,
+      9
+    ]
+  ],
+  "TTCGATCTCTGGGGCCGTGGCACCCTGGTCACTGTCTCCTCAG": [
+    [
+      1,
+      10
+    ]
+  ],
+  "TCGATCTCTGGGGCCGTGGCACCCTGGTCACTGTCTCCTCAG": [
+    [
+      1,
+      11
+    ]
+  ],
+  "CGATCTCTGGGGCCGTGGCACCCTGGTCACTGTCTCCTCAG": [
+    [
+      1,
+      12
+    ]
+  ],
+  "GATCTCTGGGGCCGTGGCACCCTGGTCACTGTCTCCTCAG": [
+    [
+      1,
+      13
+    ]
+  ],
+  "ATCTCTGGGGCCGTGGCACCCTGGTCACTGTCTCCTCAG": [
+    [
+      1,
+      14
+    ]
+  ],
+  "TCTCTGGGGCCGTGGCACCCTGGTCACTGTCTCCTCAG": [
+    [
+      1,
+      15
+    ]
+  ],
+  "CTCTGGGGCCGTGGCACCCTGGTCACTGTCTCCTCAG": [
+    [
+      1,
+      16
+    ]
+  ],
+  "TCTGGGGCCGTGGCACCCTGGTCACTGTCTCCTCAG": [
+    [
+      1,
+      17
+    ]
+  ],
+  "CTGGGGCCGTGGCACCCTGGTCACTGTCTCCTCAG": [
+    [
+      1,
+      18
+    ]
+  ],
+  "TGGGGCCGTGGCACCCTGGTCACTGTCTCCTCAG": [
+    [
+      1,
+      19
+    ]
+  ],
+  "GGGGCCGTGGCACCCTGGTCACTGTCTCCTCAG": [
+    [
+      1,
+      20
+    ]
+  ],
+  "GGGCCGTGGCACCCTGGTCACTGTCTCCTCAG": [
+    [
+      1,
+      21
+    ]
+  ],
+  "GGCCGTGGCACCCTGGTCACTGTCTCCTCAG": [
+    [
+      1,
+      22
+    ]
+  ],
+  "GCCGTGGCACCCTGGTCACTGTCTCCTCAG": [
+    [
+      1,
+      23
+    ]
+  ],
+  "CCGTGGCACCCTGGTCACTGTCTCCTCAG": [
+    [
+      1,
+      24
+    ]
+  ],
+  "CGTGGCACCCTGGTCACTGTCTCCTCAG": [
+    [
+      1,
+      25
+    ]
+  ],
+  "GTGGCACCCTGGTCACTGTCTCCTCAG": [
+    [
+      1,
+      26
+    ]
+  ],
+  "TGAATACTTCCAGCACTGGGGCCAGGGCACCCTGGTCACCGTCTCCTCAG": [
+    [
+      0,
+      2
+    ]
+  ],
+  "GAATACTTCCAGCACTGGGGCCAGGGCACCCTGGTCACCGTCTCCTCAG": [
+    [
+      0,
+      3
+    ]
+  ],
+  "AATACTTCCAGCACTGGGGCCAGGGCACCCTGGTCACCGTCTCCTCAG": [
+    [
+      0,
+      4
+    ]
+  ],
+  "ATACTTCCAGCACTGGGGCCAGGGCACCCTGGTCACCGTCTCCTCAG": [
+    [
+      0,
+      5
+    ]
+  ],
+  "TACTTCCAGCACTGGGGCCAGGGCACCCTGGTCACCGTCTCCTCAG": [
+    [
+      0,
+      6
+    ]
+  ],
+  "ACTTCCAGCACTGGGGCCAGGGCACCCTGGTCACCGTCTCCTCAG": [
+    [
+      0,
+      7
+    ]
+  ],
+  "CTTCCAGCACTGGGGCCAGGGCACCCTGGTCACCGTCTCCTCAG": [
+    [
+      0,
+      8
+    ]
+  ],
+  "TTCCAGCACTGGGGCCAGGGCACCCTGGTCACCGTCTCCTCAG": [
+    [
+      0,
+      9
+    ]
+  ],
+  "TCCAGCACTGGGGCCAGGGCACCCTGGTCACCGTCTCCTCAG": [
+    [
+      0,
+      10
+    ]
+  ],
+  "CCAGCACTGGGGCCAGGGCACCCTGGTCACCGTCTCCTCAG": [
+    [
+      0,
+      11
+    ]
+  ],
+  "CAGCACTGGGGCCAGGGCACCCTGGTCACCGTCTCCTCAG": [
+    [
+      0,
+      12
+    ]
+  ],
+  "AGCACTGGGGCCAGGGCACCCTGGTCACCGTCTCCTCAG": [
+    [
+      0,
+      13
+    ]
+  ],
+  "GCACTGGGGCCAGGGCACCCTGGTCACCGTCTCCTCAG": [
+    [
+      0,
+      14
+    ]
+  ],
+  "CACTGGGGCCAGGGCACCCTGGTCACCGTCTCCTCAG": [
+    [
+      0,
+      15
+    ]
+  ],
+  "ACTGGGGCCAGGGCACCCTGGTCACCGTCTCCTCAG": [
+    [
+      0,
+      16
+    ]
+  ],
+  "CTGGGGCCAGGGCACCCTGGTCACCGTCTCCTCAG": [
+    [
+      0,
+      17
+    ]
+  ],
+  "TGGGGCCAGGGCACCCTGGTCACCGTCTCCTCAG": [
+    [
+      0,
+      18
+    ]
+  ],
+  "GGGGCCAGGGCACCCTGGTCACCGTCTCCTCAG": [
+    [
+      0,
+      19
+    ]
+  ],
+  "GGGCCAGGGCACCCTGGTCACCGTCTCCTCAG": [
+    [
+      0,
+      20
+    ]
+  ],
+  "GGCCAGGGCACCCTGGTCACCGTCTCCTCAG": [
+    [
+      0,
+      21
+    ]
+  ],
+  "GCCAGGGCACCCTGGTCACCGTCTCCTCAG": [
+    [
+      0,
+      22
+    ]
+  ],
+  "CCAGGGCACCCTGGTCACCGTCTCCTCAG": [
+    [
+      0,
+      23
+    ]
+  ],
+  "CAGGGCACCCTGGTCACCGTCTCCTCAG": [
+    [
+      0,
+      24
+    ]
+  ],
+  "AGGGCACCCTGGTCACCGTCTCCTCAG": [
+    [
+      0,
+      25
+    ]
+  ],
+  "GGGCACCCTGGTCACCGTCTCCTCAG": [
+    [
+      0,
+      26
+    ]
+  ]
+}
