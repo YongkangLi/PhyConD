@@ -48,45 +48,15 @@ public class TreeNode {
 
     public void setUpMessages(SiteModel siteModel, int contextLength) {
         setUpMessagesFromChildren(siteModel, contextLength);
-//        setUpMessagesFromParent(proposalSiteModel);
     }
 
-//    private TaxonSampler createTaxonSampler (TaxonSampler[] taxonSamplers) {
-//        if (taxonSamplers[0] instanceof MixtureTaxonSampler) {
-//            MixtureTaxonSampler[] mixtureTaxonSamplers = new MixtureTaxonSampler[taxonSamplers.length];
-//            for (int i = 0; i < taxonSamplers.length; i++) {
-//                mixtureTaxonSamplers[i] = (MixtureTaxonSampler) taxonSamplers[i];
-//            }
-//            return new MixtureTaxonSampler(mixtureTaxonSamplers);
-//        } else {
-//            CliqueTaxonSampler[] cliqueTaxonSamplers = new CliqueTaxonSampler[taxonSamplers.length];
-//            for (int i = 0; i < taxonSamplers.length; i++) {
-//                cliqueTaxonSamplers[i] = (CliqueTaxonSampler) taxonSamplers[i];
-//            }
-//            return new CliqueTaxonSampler(cliqueTaxonSamplers);
-//        }
-//    }
 
     private SplitTaxonSampler createTaxonSampler (SplitTaxonSampler[] splitTaxonSamplers) {
         assert splitTaxonSamplers.length == 2;
-//        List<Integer> boundaries = SplitTaxonSampler.determineBoundaries(splitTaxonSamplers[0], splitTaxonSamplers[1]);
-//        splitTaxonSamplers[0].reconcileBoundaries(boundaries);
-//        splitTaxonSamplers[1].reconcileBoundaries(boundaries);
         return new SplitTaxonSampler(splitTaxonSamplers);
     }
 
-//    private TaxonSampler createTaxonSampler (TaxonSampler taxonSampler, SiteModel siteModel, double T) {
-//        if (taxonSampler instanceof MixtureTaxonSampler) {
-//            return new MixtureTaxonSampler((MixtureTaxonSampler) taxonSampler, siteModel, T);
-//        } else {
-//            return new CliqueTaxonSampler((CliqueTaxonSampler) taxonSampler, siteModel, T);
-//        }
-//    }
-
     private SplitTaxonSampler createTaxonSampler (SplitTaxonSampler splitTaxonSampler, SiteModel siteModel, double T) {
-//        SplitTaxonSampler parent = new SplitTaxonSampler(splitTaxonSampler, siteModel, T, true);
-//        parent.iterate(splitTaxonSampler, siteModel, T);
-//        return parent;
         DenseMatrix kernel = new DenseMatrix(BlockwiseSiteModel.getKernel(1, new int[]{}, new int[]{}, siteModel));
         DenseMatrix transition = kernel.mul(T).mexp();
         return new SplitTaxonSampler(splitTaxonSampler, transition, true);
@@ -194,14 +164,6 @@ public class TreeNode {
         }
     }
 
-//    private void setUpMessagesFromParent (SiteModel siteModel) {
-//        for (int i = 0; i < getChildCount(); i++) {
-//            TreeNode child = getChild(i);
-//            child.proposalMessageFromParent = createTaxonSampler(proposalTaxonSampler, siteModel, child.getBranchLength());
-//            child.setUpMessagesFromParent(siteModel);
-//        }
-//    }
-
     public double getConditionalLogLikelihood() {
         return taxonSampler.getLogLikelihood();
     }
@@ -283,20 +245,6 @@ public class TreeNode {
     public boolean isTip() {
         return children.isEmpty();
     }
-
-//    public String constructNewick(BeastTreeLineParser parser) {
-//        StringBuilder sb = new StringBuilder("tree STATE_");
-//        sb.append(parser.getTreeNumber());
-//        sb.append(" [&lnP=").append(parser.getLnp());
-//        if (logWeight != Double.NEGATIVE_INFINITY) {
-//            sb.append(",weight=").append(Math.exp(logWeight));
-//        }
-//        sb.append(",joint=").append(parser.getJoint());
-//        sb.append("] = ").append(parser.getAuxiliary());
-//        sb.append(this);
-//        sb.append(";");
-//        return sb.toString();
-//    }
 
     public String constructNewick() {
         StringBuilder sb = new StringBuilder();

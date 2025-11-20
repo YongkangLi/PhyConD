@@ -88,14 +88,14 @@ public class BeastSMC {
         SiteModel target = new ARMADiLLOSiteModel(1.14002582);
 
         BeastTreeLineParser treeLineParser = new BeastTreeLineParser(inputLine);
-        TreeNode root = treeLineParser.parseBeast(false, false);
+        TreeNode root = treeLineParser.parseBeast();
 
         FastaParser fastaParser = new FastaParser("seqs.fasta");
         root.pairSequences(fastaParser);
 
         root.setUpMessages(ism, ism.getContextLength());
         System.out.println(root.getConditionalLogLikelihood());
-        root.setFixedTaxon(new Taxon("CAGGTGCAGCTGGTGCAGTCTGGGGCTGAGGTGAAGAAGCCTGGGGCCTCAGTGAAGGTTTCCTGCAAGGCATCTGGATACACCTTCACCAGCTACTATATGCACTGGGTGCGACAGGCCCCTGGACAAGGGCTTGAGTGGATGGGAATAATCAACCCTAGTGGTGGTAGCACAAGCTACGCACAGAAGTTCCAGGGCAGAGTCACCATGACCAGGGACACGTCCACGAGCACAGTCTACATGGAGCTGAGCAGCCTGAGATCTGAGGACACGGCCGTGTATTACTGTGCGAGAAACGTGGGAACGGAGGGGAGCTTACTCCACTTTGACTACTGGGGCCAGGGAACCCTGGTCACCGTCTCCTCAG"));
+        root.sample();
         root.sampleClone(ism);
 
         HiddenNodesSMC SMC = new HiddenNodesSMC(root, ism, target, nSteps, nParticles, mutationSteps);

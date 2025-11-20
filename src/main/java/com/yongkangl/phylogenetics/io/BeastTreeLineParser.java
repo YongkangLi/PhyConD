@@ -7,7 +7,6 @@ public class BeastTreeLineParser {
     private int position;
     private int traitDimension;
     private double lnp;
-    private double[][] partials; // Simplified handling, assuming a known structure or additional parsing as needed
     private double joint;
     private String auxiliary;
     private int treeNumber;
@@ -37,15 +36,9 @@ public class BeastTreeLineParser {
         return auxiliary;
     }
 
-    public TreeNode parseBeast(Boolean header, Boolean precomputed) {
-        if (header) {
-            parseBeastHeader();
-        }
-        if (precomputed) {
-            return parsePrecomputedTree(null);
-        } else {
-            return parseTree(null);
-        }
+    public TreeNode parseBeast() {
+        parseBeastHeader();
+        return parseTree(null);
     }
 
     public double[][] parsePartials(String partialsStr) {
@@ -85,8 +78,7 @@ public class BeastTreeLineParser {
         String[] parts = properties.split("=");
         try {
             this.lnp = Double.parseDouble(parts[1].split(",")[0]);
-            this.partials = parsePartials(parts[2].split("}},")[0] + "}}");
-            this.joint = Double.parseDouble(parts[3]);
+            this.joint = Double.parseDouble(parts[2]);
         } catch (NumberFormatException e) {
             throw new IllegalArgumentException("Invalid number format in tree header");
         }
@@ -115,9 +107,7 @@ public class BeastTreeLineParser {
     }
 
     private TreeNode parsePrecomputedTree(TreeNode parent) {
-        int nodeNumber = parseNodeNumber();
         TreeNode root = new TreeNode(parent);
-        root.setFixedTaxon(new Taxon(partials[nodeNumber]));
         while (position < input.length()) {
             char current = input.charAt(position);
             if (current == '(' || current == ',') {
@@ -164,8 +154,11 @@ public class BeastTreeLineParser {
             int nextComma = input.indexOf(",", position);
             int nextBracket = input.indexOf(")", position);
             int next = Integer.compareUnsigned(nextComma, nextBracket) < 0 ? nextComma : nextBracket;
-            double branchLength = Double.parseDouble(input.substring(position+1, next));
-            treeNode.setRate(1.0);
+            int nextEqual = input.indexOf("=", position);
+            int nextSquareBracket = input.indexOf("]", position);
+            double rate = Double.parseDouble(input.substring(nextEqual + 1, nextSquareBracket));
+            double branchLength = Double.parseDouble(input.substring(nextSquareBracket + 1, next));
+            treeNode.setRate(rate);
             treeNode.setBranchLength(branchLength);
             position = next; // Move past the branch length
         }

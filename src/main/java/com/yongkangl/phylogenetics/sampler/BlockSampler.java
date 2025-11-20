@@ -183,12 +183,14 @@ public class BlockSampler {
         }
         double[] lls = new double[logPmf.length];
         for (int i = 0; i < logPmf.length; i++) {
-//            lls[i] = logPmf[i] + Math.log(stationary[i]);
-            lls[i] = logPmf[i] - 12;
-            System.out.println(new Taxon(BlockwiseSiteModel.decode(blockSize, i)) + ", " + lls[i]);
+            lls[i] = logPmf[i] + Math.log(stationary[i]);
         }
-        return Utils.logSum(lls);
-//        return Utils.logSum(logPmf);
+        double ll = Utils.logSum(lls);
+        for (int i = 0; i < lls.length; i++) {
+            lls[i] -= ll;
+        }
+        System.out.println(Arrays.toString(lls));
+        return ll;
     }
 
     public DenseMatrix getInfinitesimal(SiteModel siteModel) {

@@ -92,24 +92,11 @@ public class BeastIS {
         SiteModel target = new ARMADiLLOSiteModel(1.14002582);
 
         BeastTreeLineParser treeLineParser = new BeastTreeLineParser(inputLine);
-        TreeNode root = treeLineParser.parseBeast(true, true);
+        TreeNode root = treeLineParser.parseBeast();
         root.setUpMessages(ism, target.getContextLength());
 
         HiddenNodesSMC SMC = new HiddenNodesSMC(root, ism, target, nSteps, nParticles, mutationSteps);
         SMC.run();
         System.out.println(SMC.getLogWeight());
-//        System.out.println();
-//        System.out.println(SMC.sequences());
-
-//        root.calculateExactly(target, false, null);
-//        System.out.println("DONE!");
-
-//        HiddenNodes hiddenNodes = new HiddenNodes(1, root, 1, new SiteModel[]{ism, target});
-//        for (int i = 0; i < 10000; i++) {
-//            hiddenNodes.mutate();
-//            if (i % 200 == 0) {
-//                System.out.println(hiddenNodes);
-//            }
-//        }
     }
 }

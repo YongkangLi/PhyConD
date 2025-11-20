@@ -44,7 +44,6 @@ public class HiddenNodes extends SMCParticle {
 
     @Override
     public String toString() {
-        return root.logFullPi() + "\n" + root.getFixedTaxon() + "\n" + root.mutations();
-//        return root.sequences();
+        return root.logFullPi() + "\n" + root.mutations() + root.sequences();
     }
 }
